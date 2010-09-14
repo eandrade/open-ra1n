@@ -1,0 +1,10 @@
+OpenPwn - DarkMalloc
+Open-ra1n has been created with OpenWinPWN - http://OpenPWN.org/
+Not for use in commercial products - Open-ra1n should be Open-Source!
+Thnx to ih8sn0w for offsets
+
+
+OpenPWN has neatly organised the required files into an includes and a src folder. All you need to do, in the directory that this README is in, is run make and the processor of the device your want this payload to run on. For example, for the iPhone 3G, iPhone 2G or iPod Touch 1G, you simply need to do: make s5l8900
+
+Payload: open-ra1n
+Author: eandrade
